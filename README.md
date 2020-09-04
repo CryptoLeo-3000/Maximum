@@ -1,2 +1,2 @@
 # Maximum
- Basic Maximum game
+ Detect Maximum number
